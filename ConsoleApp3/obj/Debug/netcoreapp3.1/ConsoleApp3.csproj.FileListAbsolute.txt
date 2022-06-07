@@ -1,0 +1,11 @@
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Дистанційне навчання 3 курс\Візуальне програмування\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
