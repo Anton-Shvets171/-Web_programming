@@ -1,0 +1,58 @@
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\AM\ВізуальнеПрограмування\11variant\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\Matthew\Documents\code\c#\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\bin\Debug\netcoreapp3.1\lab1.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\bin\Debug\netcoreapp3.1\lab1.dll
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\obj\Debug\netcoreapp3.1\lab1.dll
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab4\obj\Debug\netcoreapp3.1\lab1.pdb
