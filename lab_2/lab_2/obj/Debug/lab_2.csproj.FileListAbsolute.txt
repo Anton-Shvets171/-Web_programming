@@ -1,0 +1,29 @@
+C:\Users\Vladik\source\repos\lab_2\lab_2\bin\Debug\lab_2.exe.config
+C:\Users\Vladik\source\repos\lab_2\lab_2\bin\Debug\lab_2.exe
+C:\Users\Vladik\source\repos\lab_2\lab_2\bin\Debug\lab_2.pdb
+C:\Users\Vladik\source\repos\lab_2\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+C:\Users\Vladik\source\repos\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+C:\Users\Vladik\source\repos\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+C:\Users\Vladik\source\repos\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+C:\Users\Vladik\source\repos\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\lab_2\lab_2\obj\Debug\lab_2.exe
+C:\Users\Vladik\source\repos\lab_2\lab_2\obj\Debug\lab_2.pdb
+C:\Users\Veronika\Desktop\lab_2\lab_2\bin\Debug\lab_2.exe.config
+C:\Users\Veronika\Desktop\lab_2\lab_2\bin\Debug\lab_2.exe
+C:\Users\Veronika\Desktop\lab_2\lab_2\bin\Debug\lab_2.pdb
+C:\Users\Veronika\Desktop\lab_2\lab_2\obj\Debug\lab_2.csproj.AssemblyReference.cache
+C:\Users\Veronika\Desktop\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+C:\Users\Veronika\Desktop\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+C:\Users\Veronika\Desktop\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+C:\Users\Veronika\Desktop\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\lab_2\lab_2\obj\Debug\lab_2.exe
+C:\Users\Veronika\Desktop\lab_2\lab_2\obj\Debug\lab_2.pdb
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\bin\Debug\lab_2.exe.config
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\bin\Debug\lab_2.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\bin\Debug\lab_2.pdb
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\obj\Debug\lab_2.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\lab_2\lab_2\obj\Debug\lab_2.pdb
