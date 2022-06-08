@@ -1,0 +1,20 @@
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\bin\Debug\PhoneRecords.exe.config
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\bin\Debug\PhoneRecords.exe
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\bin\Debug\PhoneRecords.pdb
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.Form1.resources
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.Properties.Resources.resources
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.exe
+C:\Users\Matthew\source\repos\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.pdb
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\bin\Debug\PhoneRecords.exe.config
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\bin\Debug\PhoneRecords.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\bin\Debug\PhoneRecords.pdb
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.csprojAssemblyReference.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.Form1.resources
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.Properties.Resources.resources
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.csproj.GenerateResource.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\PhoneRecords\PhoneRecords\obj\Debug\PhoneRecords.pdb
