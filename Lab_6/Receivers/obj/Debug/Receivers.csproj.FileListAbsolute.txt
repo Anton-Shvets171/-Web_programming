@@ -1,0 +1,26 @@
+C:\Users\Matthew\source\repos\Receivers\Receivers\bin\Debug\Receivers.exe.config
+C:\Users\Matthew\source\repos\Receivers\Receivers\bin\Debug\Receivers.exe
+C:\Users\Matthew\source\repos\Receivers\Receivers\bin\Debug\Receivers.pdb
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.Properties.Resources.resources
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.exe
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.pdb
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.Form1.resources
+C:\Users\Matthew\source\repos\Receivers\Receivers\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matthew\source\repos\Receivers\Receivers\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Matthew\source\repos\Receivers\Receivers\obj\Debug\Receivers.csproj.CopyComplete
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\bin\Debug\Receivers.exe.config
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\bin\Debug\Receivers.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\bin\Debug\Receivers.pdb
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\bin\Debug\System.Numerics.Vectors.dll
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\bin\Debug\System.Numerics.Vectors.xml
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\obj\Debug\Receivers.csprojAssemblyReference.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\obj\Debug\Receivers.Form1.resources
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\obj\Debug\Receivers.Properties.Resources.resources
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\obj\Debug\Receivers.csproj.GenerateResource.cache
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\obj\Debug\Receivers.csproj.CopyComplete
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\obj\Debug\Receivers.exe
+D:\Дистанційне навчання 3 курс\Візуальне програмування\Receivers\Receivers\obj\Debug\Receivers.pdb
